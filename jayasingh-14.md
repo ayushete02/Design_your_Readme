@@ -5,3 +5,4 @@
 - 🌱 I’m currently learning Reactjs 
 - 👯 I’m looking to collaborate on webdev projects
 - 🏫 Studying in RCOEM
+- 👩‍💻 Working in Google
